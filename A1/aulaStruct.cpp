@@ -5,7 +5,6 @@ using std::cout;
 using std::endl;
 using std::string;
 
-
 //UDT
 struct Livro
 {
